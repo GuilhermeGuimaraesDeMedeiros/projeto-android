@@ -113,6 +113,7 @@ div.video{
 div.video > iframe{
     width: 100%;
     position: absolute;
+    margin-bottom: 100px;
 }
 main h1, h2{
     font-family: var(--fonte-androide);
